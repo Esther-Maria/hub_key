@@ -2,7 +2,7 @@
 
 Em português:
 
-Um sistema desktop feito para o SENAC Hub Academy. O aplicativo foi feito usando a linguagem de programação Python. A nova unidade do SENAC veio com grandes inovações e para adequar todas estas atividades, existem vários ambientes em forma de sala. A capacidade dos ambientes funciona para áreas com assuntos comerciais, turismo, estética,beleza, moda e todo o suporte na criaçãoe desenvolvimento na área da tecnologia.
+Um sistema desktop feito para o SENAC Hub Academy. A nova unidade do SENAC veio com grandes inovações e para adequar todas estas atividades, existem vários ambientes em forma de sala. A capacidade dos ambientes funciona para áreas com assuntos comerciais, turismo, estética,beleza, moda e todo o suporte na criaçãoe desenvolvimento na área da tecnologia.
 
 Propósito:
 
